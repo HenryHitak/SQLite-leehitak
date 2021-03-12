@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.human.sqlite_leehitak.R;
+
 public class MainActivity extends AppCompatActivity {
     //멤버변수 선언
     private DatabaseHelper mDatabaseHelper;
